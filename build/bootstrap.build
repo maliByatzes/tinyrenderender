@@ -1,0 +1,7 @@
+project = tinyrenderer
+
+using version
+using config
+using test
+using install
+using dist
